@@ -7,4 +7,4 @@ An application that gets and shows customs gates density for Kapıkule and Pazar
 # Screenshots
 
 ![Main menu](screenshots/ss0.jpg "Main Menu")
-![Image](screenshots/ss0.jpg "Image")
+![Image](screenshots/ss1.jpg "Image")
